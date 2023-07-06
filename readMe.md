@@ -1,3 +1,6 @@
+It contains Mini projects related to the FS module system. 
+
+Done : 
 1. File Manipulation:
 
 Create a new file and write some content to it.
@@ -6,6 +9,7 @@ Append additional content to an existing file.
 Rename a file.
 Delete a file from the file system.
 
+Upcoming : 
 2. Directory Operations:
 
 Create a new directory.
